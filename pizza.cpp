@@ -5,6 +5,12 @@
  * @version 1.0
  * @date 2025-03-27
  */
+/*
+ИЗМЕНИЯ
+ДЛЯ
+ЛАБЫ*/
+
+
 
  #include <iomanip>
  #include <iostream>
